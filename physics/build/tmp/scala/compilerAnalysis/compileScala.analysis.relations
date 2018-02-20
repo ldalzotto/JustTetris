@@ -1,0 +1,138 @@
+products:
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyCenterOfMassInitialisation$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyCenterOfMassInitialisation.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyCreator$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyCreator.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater$$anonfun$bodyAsTuple$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater$$anonfun$clearPonctuals$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater$$anonfun$reduceState$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater$$anonfun$updateCurrentState$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyUpdater.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyWorldManager$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\body\BodyWorldManager.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\contact\StaticContactor$$anonfun$manageContact$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\contact\StaticContactor$$anonfun$sumContactsOnSameBody$1.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\contact\StaticContactor$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\contact\StaticContactor.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\DynamicBody$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\DynamicBody.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\GeometryStatus$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\GeometryStatus.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\StaticBody$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\StaticBody.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\World$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\domain\World.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\gravity\GravityApplyer$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\gravity\GravityApplyer.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\SeqImplicits$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\SeqImplicits$CoGroup.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\SeqImplicits.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeImplicits$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeImplicits$ShapeImplicit.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeImplicits.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeIntersectorImplicits$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeIntersectorImplicits$ShapeIntersector$.class
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\build\classes\main\com\ldz\physics\implicits\ShapeIntersectorImplicits.class
+binary dependencies:
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Users\Loic\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.0-M3\4d72006ebc1080f25ab947eebc2c8fbf9ccd8bd8\scala-library-2.13.0-M3.jar
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> C:\Users\Loic\.m2\repository\com\badlogicgames\gdx\gdx\1.9.8\gdx-1.9.8.jar
+source dependencies:
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala
+external dependencies:
+class names:
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> com.ldz.physics.body.BodyCenterOfMassInitialisation
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCenterOfMassInitialisation.scala -> com.ldz.physics.body.BodyCenterOfMassInitialisation$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> com.ldz.physics.body.BodyCreator
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyCreator.scala -> com.ldz.physics.body.BodyCreator$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater$$anonfun$bodyAsTuple$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater$$anonfun$clearPonctuals$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater$$anonfun$reduceState$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyUpdater.scala -> com.ldz.physics.body.BodyUpdater$$anonfun$updateCurrentState$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> com.ldz.physics.body.BodyWorldManager
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\body\BodyWorldManager.scala -> com.ldz.physics.body.BodyWorldManager$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> com.ldz.physics.contact.StaticContactor
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> com.ldz.physics.contact.StaticContactor$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> com.ldz.physics.contact.StaticContactor$$anonfun$manageContact$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\contact\StaticContactor.scala -> com.ldz.physics.contact.StaticContactor$$anonfun$sumContactsOnSameBody$1
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> com.ldz.physics.domain.DynamicBody
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\DynamicBody.scala -> com.ldz.physics.domain.DynamicBody$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> com.ldz.physics.domain.GeometryStatus
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\GeometryStatus.scala -> com.ldz.physics.domain.GeometryStatus$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> com.ldz.physics.domain.StaticBody
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\StaticBody.scala -> com.ldz.physics.domain.StaticBody$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> com.ldz.physics.domain.World
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\domain\World.scala -> com.ldz.physics.domain.World$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> com.ldz.physics.gravity.GravityApplyer
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\gravity\GravityApplyer.scala -> com.ldz.physics.gravity.GravityApplyer$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> com.ldz.physics.implicits.SeqImplicits
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> com.ldz.physics.implicits.SeqImplicits$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\SeqImplicits.scala -> com.ldz.physics.implicits.SeqImplicits$CoGroup
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> com.ldz.physics.implicits.ShapeImplicits
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> com.ldz.physics.implicits.ShapeImplicits$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeImplicits.scala -> com.ldz.physics.implicits.ShapeImplicits$ShapeImplicit
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> com.ldz.physics.implicits.ShapeIntersectorImplicits
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> com.ldz.physics.implicits.ShapeIntersectorImplicits$
+   C:\Users\Loic\Documents\JustTetris\JustTetris\physics\src\com\ldz\physics\implicits\ShapeIntersector.scala -> com.ldz.physics.implicits.ShapeIntersectorImplicits$ShapeIntersector$
